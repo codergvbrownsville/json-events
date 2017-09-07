@@ -1,2 +1,2 @@
 # json-events
-Events stored in JSON format
+Code#RGV: Brownsville events stored in JSON format
